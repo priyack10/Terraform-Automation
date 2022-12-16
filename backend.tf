@@ -3,6 +3,6 @@ terraform {
     bucket = "my-pcbucket"
     key = "main"
     region = "ap-south-1"
-    dynamodb_table = "my-db-table"
+    dynamodb_table = "my-db1"
   }
 }
